@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "辽宁师范大学 · 创新创业学院 新生有奖竞答题库（普通档）",
+    "level": "normal",
+    "level_cn": "普通档",
+    "version": "1.0",
+    "date": "2026-10-23",
+    "host": "辽宁师范大学大学生科技创新创业协会",
+    "event": "社团嘉年华 · 有奖竞答",
+    "target": "2026级本科新生",
+    "total": 17,
+    "giveaway": 3,
+    "order": "题目按由易到难编排，前 3 题为送分题",
+    "scoring": "每题 10 分，答错不扣分；建议每题限时 20 秒",
+    "sources": [
+      "https://www.lnnu.edu.cn/xxgk/xxjj.htm",
+      "https://chuangxin.lnnu.edu.cn/xygk/xyjj.htm",
+      "https://chuangxin.lnnu.edu.cn/info/1051/1650.htm"
+    ]
+  },
+  "questions": [
+    {
+      "id": "N01",
+      "no": 1,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": true,
+      "category": "标识文化",
+      "question": "学校校徽徽志的中心，是由哪几个英文字母组成的“鼎”形图案？",
+      "options": [
+        "LNNU",
+        "LNUN",
+        "LNU",
+        "NNUL"
+      ],
+      "answer": "A",
+      "answer_text": "LNNU",
+      "explanation": "徽志中心是以英文字母“LNNU”（Liaoning Normal University）组成的“鼎”为主体图案，并标注建校年份“1951”。"
+    },
+    {
+      "id": "N02",
+      "no": 2,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": true,
+      "category": "学校概况",
+      "question": "学校现设有多少个学院（学部）？",
+      "options": [
+        "18个",
+        "21个",
+        "24个",
+        "27个"
+      ],
+      "answer": "B",
+      "answer_text": "21个",
+      "explanation": "学校设有21个学院（学部），另设研究生院和创新创业学院。也就是说，创新创业学院与各学院是并列设置的单位。"
+    },
+    {
+      "id": "N03",
+      "no": 3,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": true,
+      "category": "创新创业学院",
+      "question": "学校在创新创业工作中建立的联动机制是？",
+      "options": [
+        "学校—学院—班级三级联动",
+        "校企两级联动",
+        "校团委—社团两级联动",
+        "“创新创业学院—院系”两级联动"
+      ],
+      "answer": "D",
+      "answer_text": "“创新创业学院—院系”两级联动",
+      "explanation": "学校建立“创新创业学院—院系”两级联动机制，所以各学院都有对接双创工作的老师，这也正是校科创协会按学院推荐会员的制度基础。"
+    },
+    {
+      "id": "N04",
+      "no": 4,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "学校概况",
+      "question": "学校现有国家级一流本科专业建设点多少个？",
+      "options": [
+        "6个",
+        "12个",
+        "18个",
+        "26个"
+      ],
+      "answer": "C",
+      "answer_text": "18个",
+      "explanation": "国家级一流本科专业建设点18个；6个是国家级特色专业，26个是省一流本科教育示范专业，几个数字容易混。"
+    },
+    {
+      "id": "N05",
+      "no": 5,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "学科建设",
+      "question": "学校现有多少个博士后科研流动站？",
+      "options": [
+        "3个",
+        "5个",
+        "7个",
+        "9个"
+      ],
+      "answer": "C",
+      "answer_text": "7个",
+      "explanation": "学校有7个博士后科研流动站、10个一级学科博士点、2个博士专业学位授权点。"
+    },
+    {
+      "id": "N06",
+      "no": 6,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "学科建设",
+      "question": "学校现有一级学科博士点多少个？",
+      "options": [
+        "7个",
+        "10个",
+        "15个",
+        "25个"
+      ],
+      "answer": "B",
+      "answer_text": "10个",
+      "explanation": "10个一级学科博士点、25个一级学科硕士点、17个专业学位硕士点。"
+    },
+    {
+      "id": "N07",
+      "no": 7,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "学科建设",
+      "question": "学校有几个学科进入 ESI 全球排名前 1%？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "D",
+      "answer_text": "4个",
+      "explanation": "学校有4个ESI全球排名前1%学科，另有3个辽宁省“一流建设学科”。"
+    },
+    {
+      "id": "N08",
+      "no": 8,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "学校概况",
+      "question": "学校现有多少个在招本科专业？",
+      "options": [
+        "48个",
+        "62个",
+        "70个",
+        "86个"
+      ],
+      "answer": "B",
+      "answer_text": "62个",
+      "explanation": "学校现有62个在招本科专业，覆盖师范类与非师范类多个学科门类。"
+    },
+    {
+      "id": "N09",
+      "no": 9,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "国际交流",
+      "question": "学校与意大利哪所大学共建了孔子学院？",
+      "options": [
+        "罗马大学",
+        "博洛尼亚大学",
+        "米兰大学",
+        "威尼斯大学"
+      ],
+      "answer": "C",
+      "answer_text": "米兰大学",
+      "explanation": "学校与意大利米兰大学共建孔子学院，该孔子学院多次获评“全球先进孔子学院”。"
+    },
+    {
+      "id": "N10",
+      "no": 10,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "国际交流",
+      "question": "学校与乌兹别克斯坦合作共建的分校，是国内高校在中亚设立的首所什么类型的海外分校？",
+      "options": [
+        "首所全英文授课硕士层次海外分校",
+        "首所全中文授课本科层次海外分校",
+        "首所双语授课博士层次海外分校",
+        "首所职业教育海外分校"
+      ],
+      "answer": "B",
+      "answer_text": "首所全中文授课本科层次海外分校",
+      "explanation": "学校与乌兹别克斯坦高等教育、科学与创新部及乌尔根奇国立大学共建分校，是国内高校在中亚设立的首所全中文授课本科层次海外分校。"
+    },
+    {
+      "id": "N11",
+      "no": 11,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "校科创协会会员选聘面向哪些年级的本科生？",
+      "options": [
+        "仅2026级新生",
+        "仅2025级学生",
+        "2024级至2026级学生",
+        "2025级、2026级在籍本科生"
+      ],
+      "answer": "D",
+      "answer_text": "2025级、2026级在籍本科生",
+      "explanation": "聘任条件明确为2025级、2026级在籍本科生；其中2026级新生无成绩要求，对新生非常友好。"
+    },
+    {
+      "id": "N12",
+      "no": 12,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "校科创协会选聘中，每个学院可推荐多少人？",
+      "options": [
+        "1人",
+        "2人",
+        "3人",
+        "5人"
+      ],
+      "answer": "A",
+      "answer_text": "1人",
+      "explanation": "学院推荐名额为每学院1人；个人自荐人数不限，符合条件的同学都可填报。"
+    },
+    {
+      "id": "N13",
+      "no": 13,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "校科创协会新成员的考核期是多长？",
+      "options": [
+        "半个月",
+        "1个月",
+        "3个月",
+        "6个月"
+      ],
+      "answer": "B",
+      "answer_text": "1个月",
+      "explanation": "新一届成员考核期为1个月，考核期内如有违反校规校纪行为，将被取消校科创工作成员资格。"
+    },
+    {
+      "id": "N14",
+      "no": 14,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "负责两个校区创新创业类竞赛组织、宣传与申报工作的部门是？",
+      "options": [
+        "办公室",
+        "项目管理部",
+        "竞赛部",
+        "科普部"
+      ],
+      "answer": "C",
+      "answer_text": "竞赛部",
+      "explanation": "竞赛部负责两个校区竞赛的组织、宣传与申报，并开展赛前辅导、经验交流等活动。"
+    },
+    {
+      "id": "N15",
+      "no": 15,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "负责大学生创新训练计划项目申报、中期检查、结题验收的部门是？",
+      "options": [
+        "竞赛部",
+        "项目管理部",
+        "科普部",
+        "媒体中心"
+      ],
+      "answer": "B",
+      "answer_text": "项目管理部",
+      "explanation": "项目管理部负责大创项目全过程管理（申报、中期检查、结题验收），并负责大学生创新创业年会的组织审核。"
+    },
+    {
+      "id": "N16",
+      "no": 16,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "负责创新创业学院网站日常维护与内容更新的部门是？",
+      "options": [
+        "办公室",
+        "科普部",
+        "竞赛部",
+        "媒体中心"
+      ],
+      "answer": "D",
+      "answer_text": "媒体中心",
+      "explanation": "媒体中心负责学院网站维护更新，以及新闻采写、摄影摄像、图文排版、视频剪辑等宣传工作。"
+    },
+    {
+      "id": "N17",
+      "no": 17,
+      "difficulty": "normal",
+      "difficulty_cn": "普通",
+      "is_giveaway": false,
+      "category": "校史校情",
+      "question": "2026年是辽宁师范大学建校多少周年？",
+      "options": [
+        "70周年",
+        "73周年",
+        "75周年",
+        "78周年"
+      ],
+      "answer": "C",
+      "answer_text": "75周年",
+      "explanation": "学校1951年建校，2026年恰逢建校75周年。75年来已为国家和社会培养27万余名合格人才。"
+    }
+  ]
+}

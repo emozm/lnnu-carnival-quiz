@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "辽宁师范大学 · 创新创业学院 新生有奖竞答题库（困难档）",
+    "level": "hard",
+    "level_cn": "困难档",
+    "version": "1.0",
+    "date": "2026-10-23",
+    "host": "辽宁师范大学大学生科技创新创业协会",
+    "event": "社团嘉年华 · 有奖竞答",
+    "target": "2026级本科新生",
+    "total": 9,
+    "giveaway": 1,
+    "order": "题目按由易到难编排，第 1 题为送分题",
+    "scoring": "每题 20 分，答错不扣分；建议每题限时 30 秒，可设“抢答”环节",
+    "sources": [
+      "https://www.lnnu.edu.cn/xxgk/xxjj.htm",
+      "https://info.lnnu.edu.cn/index.php/index/detail/fm/1/id/83",
+      "https://chuangxin.lnnu.edu.cn/xygk/xyjj.htm",
+      "https://chuangxin.lnnu.edu.cn/info/1050/1638.htm",
+      "https://chuangxin.lnnu.edu.cn/info/1051/1650.htm",
+      "https://chuangxin.lnnu.edu.cn/info/1051/1627.htm",
+      "https://chuangxin.lnnu.edu.cn/info/1051/1510.htm"
+    ]
+  },
+  "questions": [
+    {
+      "id": "H01",
+      "no": 1,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": true,
+      "category": "标识文化",
+      "question": "校歌《永恒的荣光》的词作者和曲作者分别是？",
+      "options": [
+        "傅东缨作词、秦咏诚作曲",
+        "秦咏诚作词、傅东缨作曲",
+        "光未然作词、冼星海作曲",
+        "乔羽作词、刘炽作曲"
+      ],
+      "answer": "A",
+      "answer_text": "傅东缨作词、秦咏诚作曲",
+      "explanation": "《永恒的荣光》由傅东缨作词、秦咏诚作曲。秦咏诚是著名作曲家，《我和我的祖国》的曲作者也是他。"
+    },
+    {
+      "id": "H02",
+      "no": 2,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "标识文化",
+      "question": "学校校徽徽志的标准标识色是？",
+      "options": [
+        "蓝色",
+        "红色",
+        "绿色",
+        "金色"
+      ],
+      "answer": "B",
+      "answer_text": "红色",
+      "explanation": "徽志标识色采用红色（20c100m100y10k）；蓝色是校旗底色，两者别记反。"
+    },
+    {
+      "id": "H03",
+      "no": 3,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "标识文化",
+      "question": "学校校旗的底色是？",
+      "options": [
+        "红色",
+        "白色",
+        "蓝色",
+        "绿色"
+      ],
+      "answer": "C",
+      "answer_text": "蓝色",
+      "explanation": "校旗以蓝色（100c70m0y20k）为底色，经反白处理的校徽与中文校名标准全称上下居中置式。"
+    },
+    {
+      "id": "H04",
+      "no": 4,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "校史校情",
+      "question": "下列校名变更顺序，正确的是？",
+      "options": [
+        "旅大师范专科学校→大连师范学院→大连师范专科学校→辽宁师范学院→辽宁师范大学",
+        "大连师范专科学校→旅大师范专科学校→辽宁师范学院→大连师范学院→辽宁师范大学",
+        "旅大师范专科学校→大连师范专科学校→大连师范学院→辽宁师范学院→辽宁师范大学",
+        "旅大师范专科学校→辽宁师范学院→大连师范学院→大连师范专科学校→辽宁师范大学"
+      ],
+      "answer": "C",
+      "answer_text": "旅大师范专科学校→大连师范专科学校→大连师范学院→辽宁师范学院→辽宁师范大学",
+      "explanation": "1951年旅大师范专科学校→1953年大连师范专科学校→1958年与大连外国语专科学校合并组建大连师范学院→1960年辽宁师范学院→1983年辽宁师范大学。"
+    },
+    {
+      "id": "H05",
+      "no": 5,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "双创成果",
+      "question": "学校获批省级创新创业学院建设单位、省级创新创业教育实践平台建设单位，各多少个？",
+      "options": [
+        "1个、1个",
+        "1个、2个",
+        "2个、1个",
+        "2个、2个"
+      ],
+      "answer": "B",
+      "answer_text": "1个、2个",
+      "explanation": "学校是省级创新创业学院建设单位1个、省级创新创业教育实践平台建设单位2个，这也是创新创业学院的“省级身份”。"
+    },
+    {
+      "id": "H06",
+      "no": 6,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "赛事活动",
+      "question": "2026年9月，“建行杯”中国国际大学生创新大赛（2026）辽宁赛区决赛在辽宁师范大学举行。本届大赛的主题是？",
+      "options": [
+        "青年红色筑梦之旅",
+        "创新引领未来",
+        "敢闯会创、筑梦辽宁",
+        "我敢闯，我会创"
+      ],
+      "answer": "D",
+      "answer_text": "我敢闯，我会创",
+      "explanation": "大赛主题为“我敢闯，我会创”，由辽宁省教育厅主办、辽宁师范大学承办、中国建设银行大连市分行协办，共有422个项目进入现场决赛。"
+    },
+    {
+      "id": "H07",
+      "no": 7,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "赛事活动",
+      "question": "在上述辽宁赛区决赛的冠军争夺战中，为辽宁师范大学夺得冠军的项目是？",
+      "options": [
+        "“潜所蔚见——以多维感知相伴每一次下潜”",
+        "“明察秋毫——全链路智能红外成像优化系统”",
+        "“理解当代中国——‘师道生花’国际师范育人公益实践”",
+        "“急速识菌——基于磁珠富集的感染性疾病快速精准诊断”"
+      ],
+      "answer": "C",
+      "answer_text": "“理解当代中国——‘师道生花’国际师范育人公益实践”",
+      "explanation": "辽宁师范大学“理解当代中国——‘师道生花’国际师范育人公益实践”项目夺冠；东北大学获亚军，大连理工大学、中国医科大学获季军。"
+    },
+    {
+      "id": "H08",
+      "no": 8,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "双创常识",
+      "question": "“大创计划”项目分为哪三种类型？",
+      "options": [
+        "创新训练、学科竞赛、创业孵化",
+        "创新训练项目、创业训练项目、创业实践项目",
+        "科研训练、创业训练、社会实践",
+        "创新实践、创业实践、就业实践"
+      ],
+      "answer": "B",
+      "answer_text": "创新训练项目、创业训练项目、创业实践项目",
+      "explanation": "大创计划分创新训练、创业训练、创业实践三类，分国家级（含重点支持领域）、省级、校级三个级别；每个团队3—5名学生，配1—2名指导教师。"
+    },
+    {
+      "id": "H09",
+      "no": 9,
+      "difficulty": "hard",
+      "difficulty_cn": "困难",
+      "is_giveaway": false,
+      "category": "校史校情",
+      "question": "1958年7月，大连师范专科学校与哪所学校合并组建大连师范学院？",
+      "options": [
+        "大连师范学校",
+        "辽宁教育学院",
+        "旅大教育学院",
+        "大连外国语专科学校"
+      ],
+      "answer": "D",
+      "answer_text": "大连外国语专科学校",
+      "explanation": "1958年7月，大连师范专科学校与大连外国语专科学校合并组建大连师范学院，这也是学校外语学科底蕴的由来之一。"
+    }
+  ]
+}

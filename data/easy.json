@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "辽宁师范大学 · 创新创业学院 新生有奖竞答题库（简单档）",
+    "level": "easy",
+    "level_cn": "简单档",
+    "version": "1.0",
+    "date": "2026-10-23",
+    "host": "辽宁师范大学大学生科技创新创业协会",
+    "event": "社团嘉年华 · 有奖竞答",
+    "target": "2026级本科新生",
+    "total": 17,
+    "giveaway": 6,
+    "order": "题目按由易到难编排，前 6 题为送分题",
+    "scoring": "每题 10 分，答错不扣分；送分题可放宽答题时间",
+    "sources": [
+      "https://www.lnnu.edu.cn/xxgk/xxjj.htm",
+      "https://chuangxin.lnnu.edu.cn/xygk/xyjj.htm",
+      "https://chuangxin.lnnu.edu.cn/info/1051/1650.htm"
+    ]
+  },
+  "questions": [
+    {
+      "id": "E01",
+      "no": 1,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": true,
+      "category": "学校概况",
+      "question": "辽宁师范大学的校训是？",
+      "options": [
+        "厚德载物、自强不息",
+        "厚德博学、为人师表",
+        "学为人师、行为世范",
+        "明德至善、博学笃行"
+      ],
+      "answer": "B",
+      "answer_text": "厚德博学、为人师表",
+      "explanation": "“厚德博学、为人师表”是辽师大校训。“学为人师、行为世范”是北京师范大学校训，别记混。"
+    },
+    {
+      "id": "E02",
+      "no": 2,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": true,
+      "category": "校史校情",
+      "question": "辽宁师范大学始建于哪一年？",
+      "options": [
+        "1951年",
+        "1949年",
+        "1953年",
+        "1960年"
+      ],
+      "answer": "A",
+      "answer_text": "1951年",
+      "explanation": "学校始建于1951年9月，初建时名为旅大师范专科学校，是新中国诞生后首批建立的高等师范院校之一。"
+    },
+    {
+      "id": "E03",
+      "no": 3,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": true,
+      "category": "学校概况",
+      "question": "辽宁师范大学坐落在哪座城市？",
+      "options": [
+        "沈阳",
+        "锦州",
+        "大连",
+        "鞍山"
+      ],
+      "answer": "C",
+      "answer_text": "大连",
+      "explanation": "学校坐落在中国北方美丽的海滨城市——大连，是一座山海相依的滨海校园。"
+    },
+    {
+      "id": "E04",
+      "no": 4,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": true,
+      "category": "标识文化",
+      "question": "辽宁师范大学的校庆日是哪一天？",
+      "options": [
+        "9月10日",
+        "9月1日",
+        "10月1日",
+        "9月24日"
+      ],
+      "answer": "D",
+      "answer_text": "9月24日",
+      "explanation": "《辽宁师范大学章程》规定校庆日为9月24日。2026年正好是建校75周年。"
+    },
+    {
+      "id": "E05",
+      "no": 5,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": true,
+      "category": "学校概况",
+      "question": "辽宁师范大学现有哪两个校区？",
+      "options": [
+        "黄河路校区、西山湖校区",
+        "黄河路校区、旅顺校区",
+        "西山湖校区、金州校区",
+        "主校区、南校区"
+      ],
+      "answer": "A",
+      "answer_text": "黄河路校区、西山湖校区",
+      "explanation": "学校现有黄河路校区和西山湖校区两个校区，创新创业学院办公室设在黄河路校区。"
+    },
+    {
+      "id": "E06",
+      "no": 6,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": true,
+      "category": "标识文化",
+      "question": "辽宁师范大学的校歌名称是？",
+      "options": [
+        "《辽师之歌》",
+        "《永恒的荣光》",
+        "《我们从这里出发》",
+        "《青春辽师》"
+      ],
+      "answer": "B",
+      "answer_text": "《永恒的荣光》",
+      "explanation": "校歌《永恒的荣光》由傅东缨作词、秦咏诚作曲，是学校各类大型活动的必唱曲目。"
+    },
+    {
+      "id": "E07",
+      "no": 7,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "学校概况",
+      "question": "关于辽宁师范大学的办学定位，下列说法正确的是？",
+      "options": [
+        "教育部直属重点大学",
+        "省属重点大学，辽宁省“双一流”建设“国内高水平大学”重点建设高校",
+        "省属普通本科院校",
+        "民办本科高校"
+      ],
+      "answer": "B",
+      "answer_text": "省属重点大学，辽宁省“双一流”建设“国内高水平大学”重点建设高校",
+      "explanation": "学校是省属重点大学、辽宁省“双一流”建设“国内高水平大学”重点建设高校，也是辽宁省教师教育最高学府。"
+    },
+    {
+      "id": "E08",
+      "no": 8,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "校史校情",
+      "question": "辽宁师范大学1951年建校时的校名是？",
+      "options": [
+        "旅大师范专科学校",
+        "大连师范专科学校",
+        "辽宁师范学院",
+        "大连师范学院"
+      ],
+      "answer": "A",
+      "answer_text": "旅大师范专科学校",
+      "explanation": "1951年9月初建时为旅大师范专科学校，1953年4月更名为大连师范专科学校。"
+    },
+    {
+      "id": "E09",
+      "no": 9,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "校史校情",
+      "question": "学校正式更名为“辽宁师范大学”是在哪一年？",
+      "options": [
+        "1960年",
+        "1978年",
+        "1995年",
+        "1983年"
+      ],
+      "answer": "D",
+      "answer_text": "1983年",
+      "explanation": "1960年7月更名为辽宁师范学院，1983年12月更名为辽宁师范大学，校名沿用至今。"
+    },
+    {
+      "id": "E10",
+      "no": 10,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "创新创业学院",
+      "question": "辽宁师范大学创新创业学院正式成立于什么时候？",
+      "options": [
+        "2017年5月",
+        "2019年7月",
+        "2021年7月",
+        "2023年9月"
+      ],
+      "answer": "C",
+      "answer_text": "2021年7月",
+      "explanation": "学校2017年5月成立大学生创新创业中心，2021年7月在此基础上正式成立创新创业学院。"
+    },
+    {
+      "id": "E11",
+      "no": 11,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "创新创业学院",
+      "question": "创新创业学院的前身“大学生创新创业中心”成立于哪一年？",
+      "options": [
+        "2015年5月",
+        "2017年5月",
+        "2019年9月",
+        "2021年7月"
+      ],
+      "answer": "B",
+      "answer_text": "2017年5月",
+      "explanation": "2017年5月学校成立大学生创新创业中心，四年后的2021年7月升格为创新创业学院。"
+    },
+    {
+      "id": "E12",
+      "no": 12,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "创新创业学院",
+      "question": "创新创业学院的办公地点在哪里？",
+      "options": [
+        "西山湖校区1号楼",
+        "黄河路校区主楼201",
+        "西山湖校区图书馆",
+        "黄河路校区创新创业学院102办公室"
+      ],
+      "answer": "D",
+      "answer_text": "黄河路校区创新创业学院102办公室",
+      "explanation": "学院办公室在黄河路校区102室，各类申报材料纸质版都报送这里，记牢这个“102”。"
+    },
+    {
+      "id": "E13",
+      "no": 13,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "“校科创协会”的全称是？",
+      "options": [
+        "辽宁师范大学大学生科技创新创业协会",
+        "辽宁师范大学学生科技创新协会",
+        "辽宁师范大学创新创业协会",
+        "辽宁师范大学青年创业协会"
+      ],
+      "answer": "A",
+      "answer_text": "辽宁师范大学大学生科技创新创业协会",
+      "explanation": "全称“辽宁师范大学大学生科技创新创业协会”，简称“校科创协会”，由创新创业学院指导。"
+    },
+    {
+      "id": "E14",
+      "no": 14,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "校科创协会下设主席团和几个部门？",
+      "options": [
+        "3个",
+        "4个",
+        "5个",
+        "7个"
+      ],
+      "answer": "C",
+      "answer_text": "5个",
+      "explanation": "协会下设主席团和办公室、竞赛部、项目管理部、科普部、媒体中心共5个部门。"
+    },
+    {
+      "id": "E15",
+      "no": 15,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "校科创协会",
+      "question": "下列哪一项不是校科创协会下设的部门？",
+      "options": [
+        "宣传部",
+        "竞赛部",
+        "科普部",
+        "媒体中心"
+      ],
+      "answer": "A",
+      "answer_text": "宣传部",
+      "explanation": "协会5个部门是办公室、竞赛部、项目管理部、科普部、媒体中心，宣传职能由媒体中心承担，没有“宣传部”。"
+    },
+    {
+      "id": "E16",
+      "no": 16,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "学校概况",
+      "question": "学校普通本科在校生规模约为多少人？",
+      "options": [
+        "8000余人",
+        "14000余人",
+        "20000余人",
+        "27000余人"
+      ],
+      "answer": "B",
+      "answer_text": "14000余人",
+      "explanation": "学校普通本科在校生14000余人，硕士、博士在校生6800余人，留学生近200人。"
+    },
+    {
+      "id": "E17",
+      "no": 17,
+      "difficulty": "easy",
+      "difficulty_cn": "简单",
+      "is_giveaway": false,
+      "category": "双创常识",
+      "question": "同学们常说的“大创”，指的是什么？",
+      "options": [
+        "大学生创新创业训练计划",
+        "大学生创业孵化计划",
+        "大学生创新竞赛计划",
+        "大学生科技训练营"
+      ],
+      "answer": "A",
+      "answer_text": "大学生创新创业训练计划",
+      "explanation": "“大创”即大学生创新创业训练计划，由创新创业学院负责项目申报、中期检查和结题验收的全过程管理。"
+    }
+  ]
+}
